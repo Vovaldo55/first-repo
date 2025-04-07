@@ -14,4 +14,11 @@ h.say_hello()  # Це викликає метод через об'єкт h
 
 print("Hello!") # ПЕРЕВІРКА ДЛЯ Git
 print("Hello!")
+print("Hello!") # ПЕРЕВІРКА ДЛЯ Git
+print("Hello!")print("Hello!") # ПЕРЕВІРКА ДЛЯ Git
+print("Hello!")print("Hello!") # ПЕРЕВІРКА ДЛЯ Git
+print("Hello!")print("Hello!") # ПЕРЕВІРКА ДЛЯ Git
+print("Hello!")print("Hello!") # ПЕРЕВІРКА ДЛЯ Git
+print("Hello!")print("Hello!") # ПЕРЕВІРКА ДЛЯ Git
+print("Hello!")
 
