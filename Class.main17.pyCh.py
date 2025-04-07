@@ -17,6 +17,11 @@ print("Hello!")
 
 print("Слава Python!")
 
+print("Hello!") # ПЕРЕВІРКА ДЛЯ Git
+print("Hello!")
+
+print("Слава Python!")
+
 
 
 
